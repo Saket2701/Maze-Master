@@ -1,13 +1,8 @@
 # MazeMaster
 
-MazeMaster is a JavaScript project that generates and solves mazes using HTML5 canvas.
-
-## Overview
-
 This project utilizes a maze generation algorithm and a solving algorithm to create and solve mazes dynamically. The maze is displayed on an HTML5 canvas, providing an interactive and visually appealing experience.
 
 ![giphy](https://github.com/Saket2701/Maze-Master/assets/101319476/5167cca4-6191-4b60-8b2c-1adcddf01451)
-
 
 ## Project Structure
 
